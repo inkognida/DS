@@ -1,2 +1,2 @@
 # DS
-learning DS with Python
+Learning DS with Python
